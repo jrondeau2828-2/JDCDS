@@ -1,0 +1,715 @@
+{
+  "Humperdoo": {
+    "id": "Humperdoo",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Humperdoo",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Humperdoo",
+    "type": false,
+    "cost": 0
+  },
+
+  "Léonard": {
+    "id": "Léonard",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Léonard",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Léonard",
+    "type": false,
+    "cost": 0
+  },
+
+  "Klaus": {
+    "id": "Klaus",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Klaus",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Klaus",
+    "type": false,
+    "cost": 0
+  },
+
+  "Phil Tarasse": {
+    "id": "Phil Tarasse",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Phil Tarasse",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Phil Tarasse",
+    "type": false,
+    "cost": 0
+  },
+
+  "Sir Rémy Boucher": {
+    "id": "Sir Rémy Boucher",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sir Rémy Boucher",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sir Rémy Boucher",
+    "type": false,
+    "cost": 0
+  },
+
+  "P’aqo": {
+    "id": "P’aqo",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "P’aqo",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "P’aqo",
+    "type": false,
+    "cost": 0
+  },
+
+  "Taxe": {
+    "id": "Taxe",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Taxe",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Taxe",
+    "type": false,
+    "cost": 0
+  },
+
+  "Armure de Zora": {
+    "id": "Armure de Zora",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Armure de Zora",
+        "type": false,
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Armure de Zora",
+    "type": false,
+    "cost": 3
+  },
+
+  "Commandement": {
+    "id": "Commandement",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Commandement",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Commandement",
+    "type": false,
+    "cost": 1
+  },
+
+  "L’ordre du crépuscule": {
+    "id": "L’ordre du crépuscule",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "L’ordre du crépuscule",
+        "type": false,
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "L’ordre du crépuscule",
+    "type": false,
+    "cost": 2
+  },
+
+  "Immunité globale": {
+    "id": "Immunité globale",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Immunité globale",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Immunité globale",
+    "type": false,
+    "cost": 1
+  },
+
+  "Épée d’argent": {
+    "id": "Épée d’argent",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Épée d’argent",
+        "type": false,
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Épée d’argent",
+    "type": false,
+    "cost": 2
+  },
+
+  "Loup d’Uter": {
+    "id": "Loup d’Uter",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Loup d’Uter",
+        "type": false,
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Loup d’Uter",
+    "type": false,
+    "cost": 3
+  },
+
+  "Tabard de la garde": {
+    "id": "Tabard de la garde",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tabard de la garde",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tabard de la garde",
+    "type": false,
+    "cost": 1
+  },
+
+  "Gardes": {
+    "id": "Gardes",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gardes",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gardes",
+    "type": false,
+    "cost": 1
+  },
+
+  "Assaut du chef de la garde": {
+    "id": "Assaut du chef de la garde",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Assaut du chef de la garde",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Assaut du chef de la garde",
+    "type": false,
+    "cost": 1
+  },
+
+  "Prière à Uter": {
+    "id": "Prière à Uter",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Prière à Uter",
+        "type": false,
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prière à Uter",
+    "type": false,
+    "cost": 2
+  },
+
+  "Cérémonie d’Uter": {
+    "id": "Cérémonie d’Uter",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cérémonie d’Uter",
+        "type": false,
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cérémonie d’Uter",
+    "type": false,
+    "cost": 3
+  },
+
+  "Kit de secours": {
+    "id": "Kit de secours",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kit de secours",
+        "type": false,
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kit de secours",
+    "type": false,
+    "cost": 2
+  },
+
+  "Bandage": {
+    "id": "Bandage",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bandage",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bandage",
+    "type": false,
+    "cost": 1
+  },
+
+  "Enchantement d’invisibilité": {
+    "id": "Enchantement d’invisibilité",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enchantement d’invisibilité",
+        "type": false,
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enchantement d’invisibilité",
+    "type": false,
+    "cost": 3
+  },
+
+  "Ordre des médecins": {
+    "id": "Ordre des médecins",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ordre des médecins",
+        "type": false,
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ordre des médecins",
+    "type": false,
+    "cost": 3
+  },
+
+  "Amputation": {
+    "id": "Amputation",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Amputation",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amputation",
+    "type": false,
+    "cost": 1
+  },
+
+  "Médecin du village": {
+    "id": "Médecin du village",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Médecin du village",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Médecin du village",
+    "type": false,
+    "cost": 0
+  },
+
+  "Grimoire d’enchanteur": {
+    "id": "Grimoire d’enchanteur",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grimoire d’enchanteur",
+        "type": false,
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grimoire d’enchanteur",
+    "type": false,
+    "cost": 2
+  },
+
+  "Le plus grand mage du village": {
+    "id": "Le plus grand mage du village",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Le plus grand mage du village",
+        "type": false,
+        "cost": 3,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Le plus grand mage du village",
+    "type": false,
+    "cost": 3
+  },
+
+  "Souvenir Erronée": {
+    "id": "Souvenir Erronée",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Souvenir Erronée",
+        "type": false,
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Souvenir Erronée",
+    "type": false,
+    "cost": 2
+  },
+
+  "Enchantement d’objet": {
+    "id": "Enchantement d’objet",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Enchantement d’objet",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Enchantement d’objet",
+    "type": false,
+    "cost": 0
+  },
+
+  "Tour du mage": {
+    "id": "Tour du mage",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tour du mage",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tour du mage",
+    "type": false,
+    "cost": 1
+  },
+
+  "Archimage": {
+    "id": "Archimage",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Archimage",
+        "type": false,
+        "cost": 5,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Archimage",
+    "type": false,
+    "cost": 5
+  },
+
+  "Plastron noir": {
+    "id": "Plastron noir",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Plastron noir",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Plastron noir",
+    "type": false,
+    "cost": 1
+  },
+
+  "Insigne de la Black Watch": {
+    "id": "Insigne de la Black Watch",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Insigne de la Black Watch",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Insigne de la Black Watch",
+    "type": false,
+    "cost": 1
+  },
+
+  "Frappe frontale": {
+    "id": "Frappe frontale",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frappe frontale",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frappe frontale",
+    "type": false,
+    "cost": 1
+  },
+
+  "Gestion": {
+    "id": "Gestion",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gestion",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gestion",
+    "type": false,
+    "cost": 1
+  },
+
+  "Épée fraîchement forgée": {
+    "id": "Épée fraîchement forgée",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Épée fraîchement forgée",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Épée fraîchement forgée",
+    "type": false,
+    "cost": 1
+  },
+
+  "Réparation": {
+    "id": "Réparation",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Réparation",
+        "type": false,
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Réparation",
+    "type": false,
+    "cost": 2
+  },
+
+  "Investissement": {
+    "id": "Investissement",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Investissement",
+        "type": false,
+        "cost": "X",
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Investissement",
+    "type": false,
+    "cost": "X"
+  },
+
+  "Emprunt à la banque": {
+    "id": "Emprunt à la banque",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emprunt à la banque",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emprunt à la banque",
+    "type": false,
+    "cost": 1
+  },
+
+  "Lancer de cailloux": {
+    "id": "Lancer de cailloux",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lancer de cailloux",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lancer de cailloux",
+    "type": false,
+    "cost": 0
+  },
+
+  "Banque": {
+    "id": "Banque",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Banque",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Banque",
+    "type": false,
+    "cost": 1
+  },
+
+  "Chance du gitan": {
+    "id": "Chance du gitan",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chance du gitan",
+        "type": false,
+        "cost": 2,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chance du gitan",
+    "type": false,
+    "cost": 2
+  },
+
+  "Grillades à P’aqo": {
+    "id": "Grillades à P’aqo",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Grillades à P’aqo",
+        "type": false,
+        "cost": 1,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "Grillades à P’aqo",
+    "type": false,
+    "cost": 1
+  }
+}
