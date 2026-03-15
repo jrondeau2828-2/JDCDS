@@ -1,0 +1,50 @@
+[
+  {
+    "id": "humperdoo",
+    "name": "Humperdoo",
+    "hp": 9,
+    "atk": 2,
+    "energy": 3,
+    "ability": "Chaque fois que l’adversaire veut jouer une carte de type Pouvoir, il doit payer 1 énergie supplémentaire."
+  },
+  {
+    "id": "leonard",
+    "name": "Léonard",
+    "hp": 7,
+    "atk": 2,
+    "energy": 4,
+    "ability": "Lorsqu’il subit des dégâts, il réduit de 1 les dégâts subis."
+  },
+  {
+    "id": "klaus",
+    "name": "Klaus",
+    "hp": 6,
+    "atk": 1,
+    "energy": 5,
+    "ability": "Klaus gagne +1 PV à chaque fois qu’une carte pouvoir ou équipement est jouée."
+  },
+  {
+    "id": "phil_tarasse",
+    "name": "Phil Tarasse",
+    "hp": 5,
+    "atk": 3,
+    "energy": 5,
+    "ability": "Les cartes pouvoir coûtent 1 énergie de moins."
+  },
+  {
+    "id": "sir_remy_boucher",
+    "name": "Sir Rémy Boucher",
+    "hp": 8,
+    "atk": 2,
+    "energy": 3,
+    "ability": "Une fois par partie, peut récupérer n’importe quelle carte équipement du deck ou de la défausse et l’équiper sans payer le coût en énergie."
+  },
+  {
+    "id": "paqo",
+    "name": "P’aqo",
+    "hp": 5,
+    "atk": 1,
+    "energy": 5,
+    "ability": "À chaque fin de manche au moment de la pioche, piocher jusqu’à avoir 7 cartes en main plutôt que 5."
+  }
+]

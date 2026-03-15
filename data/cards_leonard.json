@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Loup d’Uter",
+    "cost": 3,
+    "effect": "Le champion gagne +5 PV et +2 ATK et réduit tous les dégâts qu’il subit de 1.",
+    "type": "Equipement",
+    "speed": 3
+  },
+  {
+    "name": "Tabard de la garde",
+    "cost": 1,
+    "effect": "Le champion gagne +2 PV et +1 ATK.",
+    "type": "Equipement",
+    "speed": 8
+  },
+  {
+    "name": "Gardes",
+    "cost": 1,
+    "effect": "Compagnon avec 5 PV qui inflige 2 dégâts au champion adverse à chaque fin de manche.",
+    "type": "Compagnon",
+    "speed": 6
+  },
+  {
+    "name": "Assaut du chef de la garde",
+    "cost": 1,
+    "effect": "Inflige l’attaque du champion. Inflige +2 dégâts si le champion est équipé d’un compagnon.",
+    "type": "Pouvoir",
+    "speed": 7
+  },
+  {
+    "name": "Prière à Uter",
+    "cost": 2,
+    "effect": "Permet d'aller chercher un compagnon de son choix dans sa défausse.",
+    "type": "Instantanee",
+    "speed": "X"
+  },
+  {
+    "name": "Cérémonie d’Uter",
+    "cost": 3,
+    "effect": "Pioche les 5 premières cartes de votre deck. Vous pouvez garder en main tous les compagnons piochés et devez défausser le reste.",
+    "type": "Pouvoir",
+    "speed": 5
+  }
+]

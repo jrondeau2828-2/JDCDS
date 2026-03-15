@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Investissement",
+    "cost": "X",
+    "effect": "Le coût de la carte est égal au nombre d’énergie restante du champion. Au début de la prochaine manche, gagnez une quantité d’énergie égale au coût de cette carte, en plus de l’énergie habituelle.",
+    "type": "Pouvoir",
+    "speed": 1
+  },
+  {
+    "name": "Emprunt à la banque",
+    "cost": 1,
+    "effect": "Piochez 2 cartes, puis défaussez 2 cartes de votre choix.",
+    "type": "Pouvoir",
+    "speed": 5
+  },
+  {
+    "name": "Lancer de cailloux",
+    "cost": 0,
+    "effect": "Inflige 2 dégâts au champion adverse.",
+    "type": "Pouvoir",
+    "speed": 8
+  },
+  {
+    "name": "Banque",
+    "cost": 1,
+    "effect": "Compagnon avec 5 PV. Chaque fois que le champion doit piocher une carte grâce à une carte pouvoir, il pioche 1 carte supplémentaire.",
+    "type": "Compagnon",
+    "speed": 2
+  },
+  {
+    "name": "Chance du gitan",
+    "cost": 2,
+    "effect": "Défaussez jusqu’à 3 cartes, puis piochez autant de cartes que vous en avez défaussé.",
+    "type": "Pouvoir",
+    "speed": 7
+  },
+  {
+    "name": "Grillades à P’aqo",
+    "cost": 1,
+    "effect": "Donnez +1 PV au champion adverse, puis piochez 2 cartes.",
+    "type": "Pouvoir",
+    "speed": 6
+  }
+]

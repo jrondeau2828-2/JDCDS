@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Taxe",
+    "cost": 0,
+    "effect": "Voler 1 énergie dans la ressource d’énergie de l’adversaire.",
+    "type": "Instantanee",
+    "speed": "X",
+    "removedOnDestroy": false
+  },
+  {
+    "name": "Armure de Zora",
+    "cost": 3,
+    "effect": "Ajouter +4 PV au champion et le rend immunisé aux effets des cartes pouvoir (sauf les dégâts).",
+    "type": "Equipement",
+    "speed": 3,
+    "removedOnDestroy": false
+  },
+  {
+    "name": "Commandement",
+    "cost": 1,
+    "effect": "Piocher deux cartes de votre deck.",
+    "type": "Pouvoir",
+    "speed": 5,
+    "removedOnDestroy": false
+  },
+  {
+    "name": "L’ordre du crépuscule",
+    "cost": 2,
+    "effect": "Jusqu’à la fin de la manche, le champion gagne +2 ATK et est insensible aux cartes de type instantanée.",
+    "type": "Pouvoir",
+    "speed": 9,
+    "removedOnDestroy": false
+  },
+  {
+    "name": "Immunité globale",
+    "cost": 1,
+    "effect": "Annule la compétence du champion adverse jusqu’à la fin de la manche.",
+    "type": "Pouvoir",
+    "speed": 7,
+    "removedOnDestroy": false
+  },
+  {
+    "name": "Épée d’argent",
+    "cost": 2,
+    "effect": "Inflige l’ATK du champion +3 au champion adverse. Si cette attaque élimine le champion adverse, détruisez cette carte pour le reste de la partie.",
+    "type": "Pouvoir",
+    "speed": 4,
+    "removedOnDestroy": true
+  }
+]
