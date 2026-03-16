@@ -8,7 +8,7 @@
   "customHelp": "",
   "cardRotation": 45,
   "cards": {
-    "dataUrl": "https://github.com/jrondeau2828-2/JDCDS/blob/main/data/cards.json",
+    "dataUrl": "https://github.com/jrondeau2828-2/JDCDS/blob/main/v0.1/cards.json",
     "cardBack": ""
   },
   "deckBuilding": {
